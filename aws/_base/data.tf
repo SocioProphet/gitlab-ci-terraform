@@ -66,3 +66,6 @@ data "aws_security_group" "external_security_group" {
     ]
   }
 }
+
+##############################################################################
+## Instance types
